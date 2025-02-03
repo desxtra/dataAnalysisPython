@@ -31,4 +31,6 @@ Before running the application, make sure you have Python installed. You can ins
    ```
 
 3. **Run the dashboard with streamlit**
+   ```bash
    streamlit run dashboard.py
+   ```
