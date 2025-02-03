@@ -16,10 +16,12 @@ Aplikasi ini menggunakan dua dataset:
 Sebelum menjalankan aplikasi, pastikan Anda telah menginstal Python. Anda dapat menginstal semua paket yang diperlukan dengan menjalankan:
    ```bash
    pip install -r requirements.txt
+   ```
 
 ## Cara Menjalankan Aplikasi
-1. **Clone Repository**: Jika Anda menggunakan Git, clone repository ini ke mesin lokal Anda.
+1. **Clone Repository**: Clone repository ini ke mesin lokal Anda.
    ```bash
    git clone <URL_REPOSITORY>
    cd <NAMA_FOLDER>
    streamlit run dashboard.py
+   ```
