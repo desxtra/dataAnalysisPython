@@ -11,13 +11,6 @@ This app use two dataset:
 - `day.csv`: Day based dataset.
 - `hour.csv`: Hour based dataset.
 
-## Prerequisites 🛠️
-
-Before running the application, make sure you have Python installed. You can install all the required packages by running:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## How to run app 🏃🏻‍♂️
 
 1. **Clone Repository**: Clone this repository
@@ -29,8 +22,12 @@ Before running the application, make sure you have Python installed. You can ins
    ```bash
    cd dataAnalysisPython
    ```
+3. **Install required dependency**
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-3. **Run the dashboard with streamlit**
+4. **Run the dashboard with streamlit**
    ```bash
    streamlit run dashboard.py
    ```
